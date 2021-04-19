@@ -1,2 +1,2 @@
 # shawn
-shawn is a recruitment app
+recruitment is a recruitment app
